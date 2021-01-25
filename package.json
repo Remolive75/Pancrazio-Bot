@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Ciao io sono Pancrazio",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remolive75/Pancrazio-Bot.git"
+  },
+  "author": "Remolive75",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Remolive75/Pancrazio-Bot/issues"
+  },
+  "homepage": "https://github.com/Remolive75/Pancrazio-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
